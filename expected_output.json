@@ -1,0 +1,17 @@
+{
+  "meter_id": "METER_001",
+  "meter_type": "water",
+  "timestamp": 1710000000,
+  "measurements": [
+    {
+      "name": "temperature",
+      "unit": "C",
+      "value": 23.50
+    },
+    {
+      "name": "flow",
+      "unit": "L/min",
+      "value": 12.30
+    }
+  ]
+}
